@@ -1,0 +1,50 @@
+{
+    "data":[
+
+        {"id":1,
+        "name":"Sousse Gateway ",
+        "coordinates": [
+            10.48095703125,
+            35.65729624809628
+          ],
+    "description":" Cet Gateway est situé à sousse ",
+    "image":""
+        
+    
+    
+}
+,{
+    "id":2,
+    "name":"Tunis Gateway",
+    "coordinates": [
+        10.61279296875,
+        36.59788913307022
+      ],
+        "description":"",
+        "image":""
+            
+        
+}   , 
+{
+    "id":3,
+    "name":"Marseille Gateway",
+    "coordinates": [
+        2.900390625,
+        43.866218006556394
+      ],
+        "description":"",
+        "image":""
+            
+        
+}
+
+
+
+
+
+
+
+
+
+
+]}
